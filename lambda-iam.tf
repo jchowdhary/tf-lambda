@@ -1,5 +1,5 @@
 locals {
-    lambda_policy_path = "iam/lambda-policy.json"
+    lambda_policy_path = "lambda-policy.json"
 }
 
 # create the policy and map it to the assigned role
